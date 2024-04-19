@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.heading{
+  padding-left: 10px;
+}
+
+h1{
+text-align: center;
+ color: rgb(229, 229, 242);
+ font-family: sans-serif;
+ padding: 2vh;
+ font-size: 5vh;
+ margin-left: 50vh;
+
+ 
+}
+body{
+  background-color: rgb(29, 26, 26);
+  padding:90px;
+}
+.container{
+  margin: 0vh 50vh;
+}
+form{
+text-align: center;
+width: 100%;
+border: 5px solid #333; /* Border width and color */
+padding: 50px 100px  50px; /* Add padding to create space between the border and form elements */
+width:350px; /* Adjust the width to your preference */
+margin: 0vh auto;
+font-size: 25px;
+align-items: center;
+justify-content: center;
+background-color: aliceblue;
+border-radius: 20px;
+}
+
+
+div{
+  color:rgb(12, 12, 12);
+  display: block;
+  margin-bottom: 50px;
+  font-size:20px;
+  padding:10px 20px 10px 5px;
+  width:300px;
+  border:none;
+  border-bottom:3px solid #4d4c4c;
+  align-items: center;
+  font-family: cursive;
+  text-align: center;
+}
+  
+.button{
+  text-decoration: none;
+  border-bottom: none;
+}
+
+/* styles.css */
+
+
+
+.input input{
+  background-color: aliceblue;
+  border: none; 
+  outline: none;
+  font-size: 25px;
+}
+
+.custom-btn  {
+  background-color: #3498db;
+  color: #080707;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.custom-btn  {
+  background-color: #3498db;
+  color: #040404;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.btn-3:hover {
+  background-color: #9e8cd1;
+
+}
+
+    
+
+
+
+
+ 
+
+
+
+
